@@ -1,0 +1,41 @@
+h1{
+  color: red;
+}
+
+h2{
+  color: white;
+  background-color: green;
+}
+
+img{
+  width: 150px;
+}
+ 
+
+
+.paragraph{
+  width: 100px;
+  background-color: blue;
+  color: white;
+  margin-bottom: 100px;
+}
+
+span{
+  color: red;
+}
+
+.block {
+  padding: 50px;
+}
+
+.paragraph2 {
+  margin: 20px 100px;
+}
+
+.list li{
+  border: 1px solid;
+  font-size: 24px;
+}
+
+
+
